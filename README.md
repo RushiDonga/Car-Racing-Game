@@ -30,8 +30,7 @@ No installation required!
 
 ## 🛠️ Requirements
 
-- Windows OS  
-- .NET Framework (typically pre-installed on most Windows machines)
+- Windows OS 
 
 ---
 
